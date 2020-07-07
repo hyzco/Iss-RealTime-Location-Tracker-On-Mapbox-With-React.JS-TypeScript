@@ -1,4 +1,11 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Screenshots from app
+
+1:
+<image src="https://i.imgur.com/RO6tMyg.jpg" width="750" height="350" alt="ISS-Location-Tracker-By-HYzCode" />
+<br />
+2:
+<image src="https://i.imgur.com/qQl9CFE.jpg" width="550" height="350" alt="ISS-Location-Tracker-By-HYzCode" />
 
 ## Available Scripts
 
